@@ -1,5 +1,5 @@
-export default function Index() {
+export default function About() {
   return (
-      <div> hello </div>
+      <div> about </div>
   )
 }

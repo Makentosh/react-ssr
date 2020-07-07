@@ -1,5 +1,5 @@
-export default function About() {
+export default function Posts() {
   return (
-      <div> about </div>
+      <div> posts page </div>
   )
 }
