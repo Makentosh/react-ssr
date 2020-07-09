@@ -1,0 +1,7 @@
+{
+  "posts": [
+    {"id":  1, "body":  "Lorem Lorem Lorem Lorem Lorem Lorem", "title":  "Пост о хакинг"},
+    {"id":  2, "body":  "Lorem Lorem Lorem Lorem Lorem Lorem", "title":  "Пост о хакинг"},
+    {"id":  3, "body":  "Lorem Lorem Lorem Lorem Lorem Lorem", "title":  "Пост о хакинг"}
+  ]
+}
