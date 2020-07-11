@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
-export default function MainLayout({children}) {
+export default function MainLayout({children, title}) {
   return (
       <>
         <nav>
@@ -24,6 +24,7 @@ export default function MainLayout({children}) {
         </nav>
 
         <main>
+          <h1>{title}</h1>
           {children}
         </main>
 
